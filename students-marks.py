@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
-
 marksheet=[]
 scorelist=[]
 if __name__ == '__main__':
@@ -18,9 +14,6 @@ if __name__ == '__main__':
         for name,score in sorted(marksheet):
              if score==b:
                     print(f"The second highest scorer is {name}. and the score is {b}.")
-
-
-# In[ ]:
 
 
 
