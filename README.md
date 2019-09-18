@@ -4,4 +4,4 @@ Hacker Rank is a website where you get some problems to solve in many computer l
  feel free to contribute changes to my code
 
 
->>>>>>>> thank you
+## thank you
